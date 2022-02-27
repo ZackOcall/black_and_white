@@ -29,3 +29,13 @@ header {
     min-height: 20px;
     width: 100%;
 }
+
+section {
+    flex: 1 0 auto;
+    background-color: azure; 
+}
+
+footer {
+    flex: 0 0 600px;
+    background-color: purple;
+}
