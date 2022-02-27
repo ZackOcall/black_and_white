@@ -14,3 +14,18 @@ body {
     margin: 0;
     font-family: 'Gideon Roman', cursive;
 }
+
+main {
+    display: flex; 
+    flex-flow: row wrap; 
+    justify-content: center;
+    text-align: center;
+    min-height: 100%;
+}
+
+header {
+    text-align: center;
+    background-color: aqua; 
+    min-height: 20px;
+    width: 100%;
+}
