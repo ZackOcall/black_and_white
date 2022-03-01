@@ -28,4 +28,6 @@ let playerCard = [
     { div: "8", id: 17, name: "player 8" },
   ];
 }
-const board
+const board = () => {
+    console.log("i will fight you");
+};
