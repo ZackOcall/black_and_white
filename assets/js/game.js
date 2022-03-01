@@ -29,5 +29,5 @@ let playerCard = [
   ];
 }
 const board = () => {
-    console.log("i will fight you");
+    console.log();
 };
