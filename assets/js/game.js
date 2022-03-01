@@ -4,6 +4,17 @@ document.addEventListener("DOMContentLoaded", (e) => {
     board();
   });
 
-const cardGenerator
-
+const cardGenerator = () => {
+let computerCard = [
+    { div: "0", id: 0, name: "computer 0" },
+    { div: "1", id: 1, name: "computer 1" },
+    { div: "2", id: 2, name: "computer 2" },
+    { div: "3", id: 3, name: "computer 3" },
+    { div: "4", id: 4, name: "computer 4" },
+    { div: "5", id: 5, name: "computer 5" },
+    { div: "6", id: 6, name: "computer 6" },
+    { div: "7", id: 7, name: "computer 7" },
+    { div: "8", id: 8, name: "computer 8" },
+  ];
+}
 const board
