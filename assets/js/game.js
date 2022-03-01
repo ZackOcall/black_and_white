@@ -3,3 +3,7 @@ document.addEventListener("DOMContentLoaded", (e) => {
     cardGenerator();
     board();
   });
+
+const cardGenerator
+
+const board
